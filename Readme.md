@@ -1,4 +1,4 @@
-# 🎯 Student Performance Indicator
+# 🎯 Student Performance Prediction
 
 A comprehensive machine learning project to analyze and predict student performance based on socio-demographic and academic preparation factors. Built with EDA, preprocessing, model training, evaluation, and web deployment.
 
